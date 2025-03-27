@@ -1,9 +1,9 @@
-Here are the details of the code challenge. I suggest you timebox it to no more than 4 hours. Your code must compile in Visual Studio 2019 or above and the reviewer should be able to test it easily. 
+Here are the details of the code challenge. Your code must compile in Visual Studio 2019 or above and the reviewer should be able to test it easily. 
 
 Write a small user-friendly web site that allows the user to type a URL into an input box and then do the following:
 
-List all images from the target URL and show them to the user in a carousel or gallery control of some kind (borrow from the internet or write your own).
-Count all the words (display the total) and display the top 10 occurring words and their count (either as a table or chart of some kind, again you choose or write your own) 
+List all images from the target URL and show them to the user in a carousel or gallery control of some kind .
+Count all the words (display the total) and display the top 10 occurring words and their count (either as a table or chart of some kind) 
 
 There is a lot of room within this brief to demonstrate strengths with some creative coding.
 
